@@ -1,5 +1,5 @@
 # PixelRootFiles
-Google Pixel Root files collection for all models.. started from Pixel 6 to 9 series all modesls
+Google Pixel Root files collection for all models.. 
 
 ## File Types
 Boot.img patched by magsik for pixel 6 series or older device
