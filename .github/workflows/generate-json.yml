@@ -7,9 +7,8 @@ on:
       - '**/*.zip'
       - '**/*.img'
   schedule:
-    # Run every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
 
 jobs:
   generate-json:
@@ -28,13 +27,13 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate JSON
+      - name: Generate JSON files
         run: node .github/scripts/generate-json.js
 
       - name: Commit and push
         run: |
           git config user.name "GSM6 Bot"
           git config user.email "bot@gsm6.com"
-          git add pixel-root-files.json
-          git diff --staged --quiet || git commit -m "Update pixel-root-files.json [skip ci]"
+          git add pixel-root-files.json json/
+          git diff --staged --quiet || git commit -m "Update JSON files [skip ci]"
           git push origin main
