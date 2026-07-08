@@ -1,0 +1,40 @@
+name: Generate Pixel Root Files JSON
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**/*.zip'
+      - '**/*.img'
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate JSON
+        run: node .github/scripts/generate-json.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "GSM6 Bot"
+          git config user.email "bot@gsm6.com"
+          git add pixel-root-files.json
+          git diff --staged --quiet || git commit -m "Update pixel-root-files.json [skip ci]"
+          git push origin main
