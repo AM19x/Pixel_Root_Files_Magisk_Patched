@@ -1,0 +1,110 @@
+{
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-08T10:11:41.949Z",
+  "total_devices": 15,
+  "total_builds": 595,
+  "total_files": 1185,
+  "devices": [
+    {
+      "codename": "akita",
+      "builds": 47,
+      "files": 94,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/akita.json"
+    },
+    {
+      "codename": "bluejay",
+      "builds": 3,
+      "files": 5,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/bluejay.json"
+    },
+    {
+      "codename": "bramble",
+      "builds": 1,
+      "files": 1,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/bramble.json"
+    },
+    {
+      "codename": "caiman",
+      "builds": 48,
+      "files": 96,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/caiman.json"
+    },
+    {
+      "codename": "cheetah",
+      "builds": 69,
+      "files": 138,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/cheetah.json"
+    },
+    {
+      "codename": "comet",
+      "builds": 47,
+      "files": 94,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/comet.json"
+    },
+    {
+      "codename": "husky",
+      "builds": 59,
+      "files": 118,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/husky.json"
+    },
+    {
+      "codename": "komodo",
+      "builds": 48,
+      "files": 96,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/komodo.json"
+    },
+    {
+      "codename": "lynx",
+      "builds": 61,
+      "files": 122,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/lynx.json"
+    },
+    {
+      "codename": "oriole",
+      "builds": 2,
+      "files": 3,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/oriole.json"
+    },
+    {
+      "codename": "panther",
+      "builds": 71,
+      "files": 142,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/panther.json"
+    },
+    {
+      "codename": "raven",
+      "builds": 2,
+      "files": 2,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/raven.json"
+    },
+    {
+      "codename": "shiba",
+      "builds": 59,
+      "files": 118,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/shiba.json"
+    },
+    {
+      "codename": "tegu",
+      "builds": 29,
+      "files": 58,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/tegu.json"
+    },
+    {
+      "codename": "tokay",
+      "builds": 49,
+      "files": 98,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/tokay.json"
+    }
+  ]
+}

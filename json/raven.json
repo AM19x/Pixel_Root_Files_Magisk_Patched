@@ -1,0 +1,34 @@
+{
+  "device": "raven",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-08T10:11:41.948Z",
+  "builds": {
+    "bp3a.250905.014": [
+      {
+        "filename": "Patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/bp3a.250905.014/Patched_bp3a.250905.014.zip",
+        "size": 15541719,
+        "size_mb": "14.82"
+      }
+    ],
+    "extras": [
+      {
+        "filename": "radio-raven.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/extras/radio-raven.zip",
+        "size": 35568727,
+        "size_mb": "33.92"
+      }
+    ]
+  }
+}

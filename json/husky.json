@@ -1,0 +1,844 @@
+{
+  "device": "husky",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-08T10:11:41.947Z",
+  "builds": {
+    "ap1a.240305.019.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240305.019.a1/init_boot.zip",
+        "size": 2043430,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240305.019.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240305.019.a1/patched_ap1a.240305.019.a1.zip",
+        "size": 2019949,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240405.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240405.002/init_boot.zip",
+        "size": 2043423,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240405.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240405.002/patched_ap1a.240405.002.zip",
+        "size": 2019936,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240405.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240405.002.b1/init_boot.zip",
+        "size": 2043430,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240405.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240405.002.b1/patched_ap1a.240405.002.b1.zip",
+        "size": 2019945,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.004/init_boot.zip",
+        "size": 2043429,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.004/patched_ap1a.240505.004.zip",
+        "size": 2019933,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005/init_boot.zip",
+        "size": 2043424,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005/patched_ap1a.240505.005.zip",
+        "size": 2019932,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005.a1/init_boot.zip",
+        "size": 2043430,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005.a1/patched_ap1a.240505.005.a1.zip",
+        "size": 2019941,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005.b1/init_boot.zip",
+        "size": 2043427,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap1a.240505.005.b1/patched_ap1a.240505.005.b1.zip",
+        "size": 2019939,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap2a.240605.024": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240605.024/init_boot.zip",
+        "size": 2105346,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240605.024.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240605.024/patched_ap2a.240605.024.zip",
+        "size": 2086054,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240605.024.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240605.024.a1/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240605.024.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240605.024.a1/patched_ap2a.240605.024.a1.zip",
+        "size": 2086071,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240705.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240705.005/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240705.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240705.005/patched_ap2a.240705.005.zip",
+        "size": 2086059,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240705.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240705.005.a1/init_boot.zip",
+        "size": 2105347,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240705.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240705.005.a1/patched_ap2a.240705.005.a1.zip",
+        "size": 2086066,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005/init_boot.zip",
+        "size": 2105346,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005/patched_ap2a.240805.005.zip",
+        "size": 2086053,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005.b1/init_boot.zip",
+        "size": 2105350,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005.b1/patched_ap2a.240805.005.b1.zip",
+        "size": 2086066,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005.d1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005.d1/init_boot.zip",
+        "size": 2105346,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.d1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240805.005.d1/patched_ap2a.240805.005.d1.zip",
+        "size": 2086062,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003/init_boot.zip",
+        "size": 2105348,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003/patched_ap2a.240905.003.zip",
+        "size": 2086057,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003.b1/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003.b1/patched_ap2a.240905.003.b1.zip",
+        "size": 2086070,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003.d1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003.d1/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.d1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap2a.240905.003.d1/patched_ap2a.240905.003.d1.zip",
+        "size": 2086069,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap3a.241005.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241005.015/init_boot.zip",
+        "size": 2272388,
+        "size_mb": "2.17"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241005.015/patched_ap3a.241005.015.zip",
+        "size": 2206379,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap3a.241005.015.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241005.015.a2/init_boot.zip",
+        "size": 2272388,
+        "size_mb": "2.17"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241005.015.a2/patched_ap3a.241005.015.a2.zip",
+        "size": 2206388,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap3a.241105.007": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241105.007/init_boot.zip",
+        "size": 2273046,
+        "size_mb": "2.17"
+      },
+      {
+        "filename": "patched_ap3a.241105.007.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap3a.241105.007/patched_ap3a.241105.007.zip",
+        "size": 2206491,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap4a.241205.013": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013/init_boot.zip",
+        "size": 2251596,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013/patched_ap4a.241205.013.zip",
+        "size": 2190476,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.241205.013.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013.b1/init_boot.zip",
+        "size": 2251604,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013.b1/patched_ap4a.241205.013.b1.zip",
+        "size": 2190494,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.241205.013.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013.c1/init_boot.zip",
+        "size": 2251611,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.241205.013.c1/patched_ap4a.241205.013.c1.zip",
+        "size": 2190495,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250105.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250105.002/init_boot.zip",
+        "size": 2251606,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250105.002/patched_ap4a.250105.002.zip",
+        "size": 2190485,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250105.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250105.002.b1/init_boot.zip",
+        "size": 2251609,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250105.002.b1/patched_ap4a.250105.002.b1.zip",
+        "size": 2190494,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250205.002/init_boot.zip",
+        "size": 2253093,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250205.002/patched_ap4a.250205.002.zip",
+        "size": 2191747,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250205.002.b2/init_boot.zip",
+        "size": 2253096,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ap4a.250205.002.b2/patched_ap4a.250205.002.b2.zip",
+        "size": 2191759,
+        "size_mb": "2.09"
+      }
+    ],
+    "bp1a.250305.019": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250305.019/init_boot.zip",
+        "size": 2267397,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250305.019.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250305.019/patched_bp1a.250305.019.zip",
+        "size": 2204422,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250405.007.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250405.007.b1/init_boot.zip",
+        "size": 2267388,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250405.007.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250405.007.b1/patched_bp1a.250405.007.b1.zip",
+        "size": 2204446,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250505.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250505.005.b1/init_boot.zip",
+        "size": 2267386,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250505.005.b1/patched_bp1a.250505.005.b1.zip",
+        "size": 2204425,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250605.031.a2/init_boot.zip",
+        "size": 2666585,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250605.031.a2/patched_bp2a.250605.031.a2.zip",
+        "size": 2597807,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250705.008": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250705.008/init_boot.zip",
+        "size": 2666583,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250705.008.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250705.008/patched_bp2a.250705.008.zip",
+        "size": 2597799,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250805.005/init_boot.zip",
+        "size": 2666587,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250805.005/patched_bp2a.250805.005.zip",
+        "size": 2597802,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp3a.250905.014": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.250905.014/init_boot.zip",
+        "size": 2638640,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.250905.014/patched_bp3a.250905.014.zip",
+        "size": 2580160,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251005.004.b1/init_boot.zip",
+        "size": 2638648,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251005.004.b1/patched_bp3a.251005.004.b1.zip",
+        "size": 2580172,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251005.004.b2/init_boot.zip",
+        "size": 2638647,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251005.004.b2/patched_bp3a.251005.004.b2.zip",
+        "size": 2580171,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251105.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251105.015/init_boot.zip",
+        "size": 2638639,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251105.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp3a.251105.015/patched_bp3a.251105.015.zip",
+        "size": 2580160,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp4a.251205.006": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.251205.006/init_boot.zip",
+        "size": 2315908,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.251205.006/patched_bp4a.251205.006.zip",
+        "size": 2332857,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.251205.006.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.251205.006.e1/init_boot.zip",
+        "size": 2315920,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.251205.006.e1/patched_bp4a.251205.006.e1.zip",
+        "size": 2332875,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.260105.004.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.260105.004.e1/init_boot.zip",
+        "size": 2315916,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260105.004.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.260105.004.e1/patched_bp4a.260105.004.e1.zip",
+        "size": 2332869,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.260205.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.260205.001/init_boot.zip",
+        "size": 2315909,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260205.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp4a.260205.001/patched_bp4a.260205.001.zip",
+        "size": 2332853,
+        "size_mb": "2.22"
+      }
+    ],
+    "cp1a.260305.018": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260305.018/init_boot.zip",
+        "size": 2331848,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260305.018.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260305.018/patched_cp1a.260305.018.zip",
+        "size": 2348440,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260405.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260405.005/init_boot.zip",
+        "size": 2331844,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260405.005/patched_cp1a.260405.005.zip",
+        "size": 2349101,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260505.005/init_boot.zip",
+        "size": 2331843,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260505.005/patched_cp1a.260505.005.zip",
+        "size": 2349100,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260505.005.a1/init_boot.zip",
+        "size": 2331841,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260505.005.a1/patched_cp1a.260505.005.a1.zip",
+        "size": 2349111,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp2a.260605.012": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp2a.260605.012/init_boot.zip",
+        "size": 2348031,
+        "size_mb": "2.24"
+      },
+      {
+        "filename": "patched_cp2a.260605.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp2a.260605.012/patched_cp2a.260605.012.zip",
+        "size": 2361167,
+        "size_mb": "2.25"
+      }
+    ],
+    "ud1a.230803.022": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022/init_boot.zip",
+        "size": 1878998,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.230803.022.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022/patched_ud1a.230803.022.zip",
+        "size": 1888061,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud1a.230803.022.a3": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.a3/init_boot.zip",
+        "size": 1878998,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.230803.022.a3.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.a3/patched_ud1a.230803.022.a3.zip",
+        "size": 1888069,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud1a.230803.022.a4": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.a4/init_boot.zip",
+        "size": 1879002,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.230803.022.a4.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.a4/patched_ud1a.230803.022.a4.zip",
+        "size": 1888076,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud1a.230803.022.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.b1/init_boot.zip",
+        "size": 1878998,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.230803.022.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.022.b1/patched_ud1a.230803.022.b1.zip",
+        "size": 1888073,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud1a.230803.041": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.041/init_boot.zip",
+        "size": 1879000,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.230803.041.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.230803.041/patched_ud1a.230803.041.zip",
+        "size": 1888063,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud1a.231105.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.231105.004/init_boot.zip",
+        "size": 1879266,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud1a.231105.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/ud1a.231105.004/patched_ud1a.231105.004.zip",
+        "size": 1887670,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.231205.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.231205.015/init_boot.zip",
+        "size": 1879245,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.231205.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.231205.015/patched_uq1a.231205.015.zip",
+        "size": 1888459,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.231205.015.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.231205.015.a1/init_boot.zip",
+        "size": 1879248,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.231205.015.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.231205.015.a1/patched_uq1a.231205.015.a1.zip",
+        "size": 1888476,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240105.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240105.004/init_boot.zip",
+        "size": 1879244,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240105.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240105.004/patched_uq1a.240105.004.zip",
+        "size": 1888466,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240105.004.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240105.004.a1/init_boot.zip",
+        "size": 1879248,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240105.004.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240105.004.a1/patched_uq1a.240105.004.a1.zip",
+        "size": 1888474,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004/init_boot.zip",
+        "size": 1879242,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004/patched_uq1a.240205.004.zip",
+        "size": 1888467,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.004.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004.a1/init_boot.zip",
+        "size": 1879245,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.004.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004.a1/patched_uq1a.240205.004.a1.zip",
+        "size": 1888473,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.004.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004.b1/init_boot.zip",
+        "size": 1879247,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.004.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/uq1a.240205.004.b1/patched_uq1a.240205.004.b1.zip",
+        "size": 1888473,
+        "size_mb": "1.80"
+      }
+    ]
+  }
+}
