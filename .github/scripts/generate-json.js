@@ -6,6 +6,7 @@ const SOURCE_URL = 'https://gsm6.com/gsm6-pixel-tool-pro/';
 const SOURCE_NAME = 'GSM6 Pixel Tool Pro';
 const REPO_URL = 'https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched';
 const COMMUNITY_PAGE = 'https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature';
+const OUTPUT_DIR = './json';
 
 // ─── SCAN THE REPO ──────────────────────────────────────────────────────
 
@@ -14,7 +15,7 @@ function scanDirectory(dir, basePath = '') {
     const result = {};
 
     for (const item of items) {
-        if (item.name === '.git' || item.name === '.github' || item.name === 'pixel-root-files.json') continue;
+        if (item.name === '.git' || item.name === '.github' || item.name === 'json' || item.name === 'pixel-root-files.json') continue;
         if (item.name.startsWith('.')) continue;
 
         const fullPath = path.join(dir, item.name);
@@ -48,7 +49,7 @@ function scanDirectory(dir, basePath = '') {
     return result;
 }
 
-// ─── SCAN UPLOADS FOLDER (if exists) ──────────────────────────────────
+// ─── SCAN UPLOADS FOLDER ──────────────────────────────────────────────
 
 const uploadsDir = './uploads';
 let devices = {};
@@ -87,7 +88,7 @@ if (fs.existsSync(uploadsDir)) {
     // Fallback: scan root directories
     const rootItems = fs.readdirSync('.', { withFileTypes: true });
     for (const item of rootItems) {
-        if (item.isDirectory() && !item.name.startsWith('.') && item.name !== 'uploads' && item.name !== '.git' && item.name !== '.github') {
+        if (item.isDirectory() && !item.name.startsWith('.') && item.name !== 'uploads' && item.name !== '.git' && item.name !== '.github' && item.name !== 'json') {
             const devicePath = path.join('.', item.name);
             const builds = fs.readdirSync(devicePath, { withFileTypes: true });
             devices[item.name] = {};
@@ -116,22 +117,58 @@ if (fs.existsSync(uploadsDir)) {
     }
 }
 
-// ─── BUILD THE JSON ────────────────────────────────────────────────────
+// ─── CREATE JSON DIRECTORY ─────────────────────────────────────────────
+
+if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+// ─── GENERATE INDIVIDUAL DEVICE JSON FILES ────────────────────────────
 
 let totalDevices = 0;
 let totalBuilds = 0;
 let totalFiles = 0;
 
-for (const device of Object.keys(devices)) {
-    const builds = Object.keys(devices[device]);
-    totalDevices++;
-    totalBuilds += builds.length;
-    for (const build of builds) {
-        totalFiles += devices[device][build].length;
+for (const deviceName of Object.keys(devices)) {
+    const deviceBuilds = devices[deviceName];
+    const buildCount = Object.keys(deviceBuilds).length;
+    let fileCount = 0;
+    for (const build of Object.keys(deviceBuilds)) {
+        fileCount += deviceBuilds[build].length;
     }
+    totalDevices++;
+    totalBuilds += buildCount;
+    totalFiles += fileCount;
+
+    // Create device-specific JSON
+    const deviceJson = {
+        device: deviceName,
+        source: {
+            name: SOURCE_NAME,
+            url: SOURCE_URL,
+            repo: REPO_URL
+        },
+        community: {
+            contribute_url: COMMUNITY_PAGE,
+            tool_name: SOURCE_NAME,
+            tool_download: SOURCE_URL,
+            magisk_version: "30.7",
+            support_link: "https://gsm6.com/support/"
+        },
+        generated_at: new Date().toISOString(),
+        builds: deviceBuilds
+    };
+
+    fs.writeFileSync(
+        path.join(OUTPUT_DIR, `${deviceName}.json`),
+        JSON.stringify(deviceJson, null, 2)
+    );
+    console.log(`✅ Generated ${deviceName}.json (${fileCount} files)`);
 }
 
-const jsonData = {
+// ─── GENERATE MASTER INDEX ─────────────────────────────────────────────
+
+const indexJson = {
     source: {
         name: SOURCE_NAME,
         url: SOURCE_URL,
@@ -141,13 +178,6 @@ const jsonData = {
         contribute_url: COMMUNITY_PAGE,
         tool_name: SOURCE_NAME,
         tool_download: SOURCE_URL,
-        how_to_contribute: [
-            "1. Download and install GSM6 Pixel Tool Pro",
-            "2. Root your Pixel device using the Direct Root method",
-            "3. After successful root, the tool will ask to upload the file",
-            "4. Click 'Yes' to share your root file with the community",
-            "5. Your file will be available for everyone within a few hours"
-        ],
         magisk_version: "30.7",
         support_link: "https://gsm6.com/support/"
     },
@@ -155,14 +185,13 @@ const jsonData = {
     total_devices: totalDevices,
     total_builds: totalBuilds,
     total_files: totalFiles,
-    devices: devices
+    devices: Object.keys(devices).map(name => ({
+        codename: name,
+        builds: Object.keys(devices[name]).length,
+        files: Object.values(devices[name]).reduce((sum, files) => sum + files.length, 0),
+        json_url: `https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/${name}.json`
+    }))
 };
 
-// ─── WRITE THE JSON FILE ───────────────────────────────────────────────
-
-fs.writeFileSync('pixel-root-files.json', JSON.stringify(jsonData, null, 2));
-console.log(`✅ Generated pixel-root-files.json`);
-console.log(`   📱 ${totalDevices} devices`);
-console.log(`   📦 ${totalBuilds} builds`);
-console.log(`   📄 ${totalFiles} files`);
-console.log(`   🔗 Source: ${SOURCE_URL}`);
+fs.writeFileSync('pixel-root-files.json', JSON.stringify(indexJson, null, 2));
+console.log(`✅ Generated master index.json (${totalDevices} devices, ${totalBuilds} builds, ${totalFiles} files)`);
