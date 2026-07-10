@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-10T02:05:28.159Z",
+  "generated_at": "2026-07-10T08:56:35.989Z",
   "builds": {
     "cp1a.260305.018": [
       {
@@ -40,6 +40,14 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bluejay/cp1a.260405.005/boot.zip",
         "size": 14390633,
         "size_mb": "13.72"
+      }
+    ],
+    "cp2a.260705.006": [
+      {
+        "filename": "Patched_cp2a.260705.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bluejay/cp2a.260705.006/Patched_cp2a.260705.006.zip",
+        "size": 14756895,
+        "size_mb": "14.07"
       }
     ],
     "extras": [
