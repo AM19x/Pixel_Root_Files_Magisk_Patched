@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-10T14:03:43.197Z",
+  "generated_at": "2026-07-10T16:15:10.332Z",
   "builds": {
     "sq3a.220705.003.a1": [
       {
@@ -20,6 +20,14 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/sunfish/sq3a.220705.003.a1/boot.zip",
         "size": 32780534,
         "size_mb": "31.26"
+      }
+    ],
+    "tq3a.230805.001.s2": [
+      {
+        "filename": "Patched_tq3a.230805.001.s2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/sunfish/tq3a.230805.001.s2/Patched_tq3a.230805.001.s2.zip",
+        "size": 33037281,
+        "size_mb": "31.51"
       }
     ]
   }
