@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-10T08:56:35.993Z",
+  "generated_at": "2026-07-10T08:57:21.253Z",
   "total_devices": 16,
   "total_builds": 597,
-  "total_files": 1187,
+  "total_files": 1188,
   "devices": [
     {
       "codename": "akita",
@@ -25,7 +25,7 @@
     {
       "codename": "bluejay",
       "builds": 4,
-      "files": 6,
+      "files": 7,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/bluejay.json"
     },
     {
