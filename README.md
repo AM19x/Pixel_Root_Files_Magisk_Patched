@@ -253,7 +253,7 @@ This repository is automatically updated every **6 hours** via GitHub Actions:
 | **GSM6 Official Website** | [gsm6.com](https://gsm6.com) |
 | **Support Forum** | [forum.gsm6.com](https://forum.gsm6.com) |
 | **Telegram Community** | [Join Channel](https://t.me/LearnMobileSoftware) |
-| **YouTube Tutorials** | [Watch Videos](https://youtube.com/@gsm6) |
+| **YouTube Tutorials** | [Watch Videos](https://www.youtube.com/channel/UCFCeZMSYqYskNe5e-ulMKjg?sub_confirmation=1) |
 
 ---
 
