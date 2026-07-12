@@ -1,5 +1,5 @@
 {
-  "device": "bramble",
+  "device": "redfin",
   "source": {
     "name": "GSM6 Pixel Tool Pro",
     "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
@@ -12,14 +12,20 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-12T14:09:01.377Z",
+  "generated_at": "2026-07-12T14:09:01.380Z",
   "builds": {
     "up1a.231105.001.b2": [
       {
-        "filename": "patched-up1a.231105.001.b2.zip",
-        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bramble/up1a.231105.001.b2/patched-up1a.231105.001.b2.zip",
-        "size": 12170198,
+        "filename": "Patched_up1a.231105.001.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/redfin/up1a.231105.001.b2/Patched_up1a.231105.001.b2.zip",
+        "size": 12170193,
         "size_mb": "11.61"
+      },
+      {
+        "filename": "boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/redfin/up1a.231105.001.b2/boot.zip",
+        "size": 12141330,
+        "size_mb": "11.58"
       }
     ]
   }
