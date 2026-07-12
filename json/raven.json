@@ -12,8 +12,16 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-12T02:15:53.527Z",
+  "generated_at": "2026-07-12T02:35:15.981Z",
   "builds": {
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "Patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/bp2a.250605.031.a2/Patched_bp2a.250605.031.a2.zip",
+        "size": 14679773,
+        "size_mb": "14.00"
+      }
+    ],
     "bp3a.250905.014": [
       {
         "filename": "Patched_bp3a.250905.014.zip",
