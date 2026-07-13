@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-13T11:54:07.327Z",
+  "generated_at": "2026-07-13T12:29:22.755Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -489,6 +489,12 @@
       }
     ],
     "td1a.220804.009.a2": [
+      {
+        "filename": "Patched_td1a.220804.009.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a2/Patched_td1a.220804.009.a2.zip",
+        "size": 1813288,
+        "size_mb": "1.73"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a2/init_boot.zip",
