@@ -12,9 +12,15 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-13T11:19:21.011Z",
+  "generated_at": "2026-07-13T11:54:07.329Z",
   "builds": {
     "cp1a.260405.005": [
+      {
+        "filename": "Patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/oriole/cp1a.260405.005/Patched_cp1a.260405.005.zip",
+        "size": 14731386,
+        "size_mb": "14.05"
+      },
       {
         "filename": "boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/oriole/cp1a.260405.005/boot.zip",
