@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T18:57:52.521Z",
+  "generated_at": "2026-07-15T21:59:26.701Z",
   "builds": {
     "bp2a.250605.031.a2": [
       {
@@ -70,6 +70,14 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp2a.260605.012.b1/Patched_cp2a.260605.012.b1.zip",
         "size": 14756898,
         "size_mb": "14.07"
+      }
+    ],
+    "cp2a.260705.006": [
+      {
+        "filename": "boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp2a.260705.006/boot.zip",
+        "size": 14390640,
+        "size_mb": "13.72"
       }
     ],
     "extras": [
