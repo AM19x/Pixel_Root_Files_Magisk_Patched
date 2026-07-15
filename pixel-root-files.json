@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T11:45:28.046Z",
+  "generated_at": "2026-07-15T13:09:55.026Z",
   "total_devices": 17,
   "total_builds": 605,
-  "total_files": 1210,
+  "total_files": 1211,
   "devices": [
     {
       "codename": "akita",
@@ -43,7 +43,7 @@
     {
       "codename": "cheetah",
       "builds": 69,
-      "files": 141,
+      "files": 142,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/cheetah.json"
     },
     {

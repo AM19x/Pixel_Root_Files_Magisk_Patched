@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T11:45:28.041Z",
+  "generated_at": "2026-07-15T13:09:55.022Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -323,6 +323,12 @@
       }
     ],
     "bp1a.250505.005.b1": [
+      {
+        "filename": "Patched_bp1a.250505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250505.005.b1/Patched_bp1a.250505.005.b1.zip",
+        "size": 2202706,
+        "size_mb": "2.10"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250505.005.b1/init_boot.zip",
