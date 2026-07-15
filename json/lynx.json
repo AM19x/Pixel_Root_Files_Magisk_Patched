@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T09:43:47.195Z",
+  "generated_at": "2026-07-15T09:46:01.302Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -506,7 +506,7 @@
       {
         "filename": "patched_cp1a.260405.005.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/cp1a.260405.005/patched_cp1a.260405.005.zip",
-        "size": 2366786,
+        "size": 2367091,
         "size_mb": "2.26"
       }
     ],
@@ -526,7 +526,7 @@
       {
         "filename": "patched_cp1a.260505.005.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/cp1a.260505.005/patched_cp1a.260505.005.zip",
-        "size": 2366788,
+        "size": 2367091,
         "size_mb": "2.26"
       }
     ],

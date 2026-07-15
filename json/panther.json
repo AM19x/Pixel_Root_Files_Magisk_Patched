@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T09:43:47.196Z",
+  "generated_at": "2026-07-15T09:46:01.302Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -352,7 +352,7 @@
       {
         "filename": "patched_bp1a.250505.005.b1.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/panther/bp1a.250505.005.b1/patched_bp1a.250505.005.b1.zip",
-        "size": 2201837,
+        "size": 2202697,
         "size_mb": "2.10"
       }
     ],
@@ -484,7 +484,7 @@
       {
         "filename": "patched_cp1a.260405.005.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/panther/cp1a.260405.005/patched_cp1a.260405.005.zip",
-        "size": 2366791,
+        "size": 2367097,
         "size_mb": "2.26"
       }
     ],
