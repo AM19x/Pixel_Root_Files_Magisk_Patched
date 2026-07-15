@@ -1,0 +1,424 @@
+{
+  "device": "tegu",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-15T08:42:50.723Z",
+  "builds": {
+    "bd4a.240925.111": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.240925.111/init_boot.zip",
+        "size": 2251658,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_bd4a.240925.111.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.240925.111/patched_bd4a.240925.111.zip",
+        "size": 2190534,
+        "size_mb": "2.09"
+      }
+    ],
+    "bd4a.250405.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.250405.003/init_boot.zip",
+        "size": 2253137,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_bd4a.250405.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.250405.003/patched_bd4a.250405.003.zip",
+        "size": 2191801,
+        "size_mb": "2.09"
+      }
+    ],
+    "bd4a.250505.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.250505.003/init_boot.zip",
+        "size": 2253134,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_bd4a.250505.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bd4a.250505.003/patched_bd4a.250505.003.zip",
+        "size": 2191796,
+        "size_mb": "2.09"
+      }
+    ],
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250605.031.a2/init_boot.zip",
+        "size": 2666640,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250605.031.a2/patched_bp2a.250605.031.a2.zip",
+        "size": 2597853,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250705.008": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250705.008/init_boot.zip",
+        "size": 2666642,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250705.008.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250705.008/patched_bp2a.250705.008.zip",
+        "size": 2597845,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250805.005/init_boot.zip",
+        "size": 2666636,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp2a.250805.005/patched_bp2a.250805.005.zip",
+        "size": 2597857,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp3a.250905.014": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.250905.014/init_boot.zip",
+        "size": 2638699,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.250905.014/patched_bp3a.250905.014.zip",
+        "size": 2579400,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.a2/init_boot.zip",
+        "size": 2638697,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.a2/patched_bp3a.251005.004.a2.zip",
+        "size": 2579405,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.a3": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.a3/init_boot.zip",
+        "size": 2638700,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.a3.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.a3/patched_bp3a.251005.004.a3.zip",
+        "size": 2579407,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b1/init_boot.zip",
+        "size": 2638698,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b1/patched_bp3a.251005.004.b1.zip",
+        "size": 2579404,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b2/init_boot.zip",
+        "size": 2638702,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b2/patched_bp3a.251005.004.b2.zip",
+        "size": 2579406,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251105.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251105.015/init_boot.zip",
+        "size": 2638694,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251105.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251105.015/patched_bp3a.251105.015.zip",
+        "size": 2579397,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251105.015.j1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251105.015.j1/init_boot.zip",
+        "size": 2638695,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251105.015.j1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251105.015.j1/patched_bp3a.251105.015.j1.zip",
+        "size": 2579406,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp4a.251205.006": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006/init_boot.zip",
+        "size": 2315955,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006/patched_bp4a.251205.006.zip",
+        "size": 2333116,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.251205.006.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.b1/init_boot.zip",
+        "size": 2315956,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.b1/patched_bp4a.251205.006.b1.zip",
+        "size": 2333127,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.251205.006.b3": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.b3/init_boot.zip",
+        "size": 2315953,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.b3.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.b3/patched_bp4a.251205.006.b3.zip",
+        "size": 2333125,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.251205.006.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.c1/init_boot.zip",
+        "size": 2315954,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.c1/patched_bp4a.251205.006.c1.zip",
+        "size": 2333126,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.251205.006.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.e1/init_boot.zip",
+        "size": 2315956,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.251205.006.e1/patched_bp4a.251205.006.e1.zip",
+        "size": 2333127,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260105.004.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.b2/init_boot.zip",
+        "size": 2315953,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260105.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.b2/patched_bp4a.260105.004.b2.zip",
+        "size": 2333122,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260105.004.c2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.c2/init_boot.zip",
+        "size": 2315953,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260105.004.c2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.c2/patched_bp4a.260105.004.c2.zip",
+        "size": 2333127,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260105.004.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.e1/init_boot.zip",
+        "size": 2315954,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260105.004.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260105.004.e1/patched_bp4a.260105.004.e1.zip",
+        "size": 2333123,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260205.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001/init_boot.zip",
+        "size": 2315957,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260205.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001/patched_bp4a.260205.001.zip",
+        "size": 2333119,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260205.001.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001.b1/init_boot.zip",
+        "size": 2315954,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260205.001.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001.b1/patched_bp4a.260205.001.b1.zip",
+        "size": 2333123,
+        "size_mb": "2.23"
+      }
+    ],
+    "bp4a.260205.001.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001.c1/init_boot.zip",
+        "size": 2315955,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260205.001.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp4a.260205.001.c1/patched_bp4a.260205.001.c1.zip",
+        "size": 2333126,
+        "size_mb": "2.23"
+      }
+    ],
+    "cp1a.260305.018": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260305.018/init_boot.zip",
+        "size": 2331828,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260305.018.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260305.018/patched_cp1a.260305.018.zip",
+        "size": 2348476,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260405.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260405.005/init_boot.zip",
+        "size": 2331823,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260405.005/patched_cp1a.260405.005.zip",
+        "size": 2348546,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260505.005/init_boot.zip",
+        "size": 2331821,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260505.005/patched_cp1a.260505.005.zip",
+        "size": 2348541,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260505.005.a1/init_boot.zip",
+        "size": 2331820,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp1a.260505.005.a1/patched_cp1a.260505.005.a1.zip",
+        "size": 2348548,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp2a.260605.012": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp2a.260605.012/init_boot.zip",
+        "size": 2348061,
+        "size_mb": "2.24"
+      },
+      {
+        "filename": "patched_cp2a.260605.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/cp2a.260605.012/patched_cp2a.260605.012.zip",
+        "size": 2361106,
+        "size_mb": "2.25"
+      }
+    ]
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "device": "akita",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-15T08:42:50.715Z",
+  "builds": {
+    "ap2a.240605.024": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240605.024/init_boot.zip",
+        "size": 2105386,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240605.024.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240605.024/patched_ap2a.240605.024.zip",
+        "size": 2086094,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240605.024.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240605.024.a1/init_boot.zip",
+        "size": 2105398,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240605.024.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240605.024.a1/patched_ap2a.240605.024.a1.zip",
+        "size": 2086108,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240705.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240705.005/init_boot.zip",
+        "size": 2105391,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240705.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240705.005/patched_ap2a.240705.005.zip",
+        "size": 2086095,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240705.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240705.005.a1/init_boot.zip",
+        "size": 2105392,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240705.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240705.005.a1/patched_ap2a.240705.005.a1.zip",
+        "size": 2086102,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.a1/init_boot.zip",
+        "size": 2105391,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.a1/patched_ap2a.240805.005.a1.zip",
+        "size": 2086103,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.c1/init_boot.zip",
+        "size": 2105391,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.c1/patched_ap2a.240805.005.c1.zip",
+        "size": 2086102,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.e1/init_boot.zip",
+        "size": 2105388,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240805.005.e1/patched_ap2a.240805.005.e1.zip",
+        "size": 2086098,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.a1/init_boot.zip",
+        "size": 2105396,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.a1/patched_ap2a.240905.003.a1.zip",
+        "size": 2086105,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.c1/init_boot.zip",
+        "size": 2105393,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.c1/patched_ap2a.240905.003.c1.zip",
+        "size": 2086105,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.e1/init_boot.zip",
+        "size": 2105395,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap2a.240905.003.e1/patched_ap2a.240905.003.e1.zip",
+        "size": 2086106,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap3a.241005.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241005.015/init_boot.zip",
+        "size": 2266376,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241005.015/patched_ap3a.241005.015.zip",
+        "size": 2201872,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap3a.241005.015.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241005.015.a2/init_boot.zip",
+        "size": 2266383,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241005.015.a2/patched_ap3a.241005.015.a2.zip",
+        "size": 2201883,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap3a.241105.007": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241105.007/init_boot.zip",
+        "size": 2266957,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_ap3a.241105.007.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap3a.241105.007/patched_ap3a.241105.007.zip",
+        "size": 2202644,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap4a.241205.013": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013/init_boot.zip",
+        "size": 2251660,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013/patched_ap4a.241205.013.zip",
+        "size": 2190533,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.241205.013.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013.b1/init_boot.zip",
+        "size": 2251665,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013.b1/patched_ap4a.241205.013.b1.zip",
+        "size": 2190545,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.241205.013.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013.c1/init_boot.zip",
+        "size": 2251662,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.241205.013.c1/patched_ap4a.241205.013.c1.zip",
+        "size": 2190539,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250105.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250105.002/init_boot.zip",
+        "size": 2251663,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250105.002/patched_ap4a.250105.002.zip",
+        "size": 2190536,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250105.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250105.002.b1/init_boot.zip",
+        "size": 2251667,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250105.002.b1/patched_ap4a.250105.002.b1.zip",
+        "size": 2190549,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250205.002/init_boot.zip",
+        "size": 2253140,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250205.002/patched_ap4a.250205.002.zip",
+        "size": 2191796,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250205.002.b2/init_boot.zip",
+        "size": 2253148,
+        "size_mb": "2.15"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ap4a.250205.002.b2/patched_ap4a.250205.002.b2.zip",
+        "size": 2191809,
+        "size_mb": "2.09"
+      }
+    ],
+    "bp1a.250305.019": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250305.019/init_boot.zip",
+        "size": 2267441,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250305.019.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250305.019/patched_bp1a.250305.019.zip",
+        "size": 2204490,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250405.007.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250405.007.b1/init_boot.zip",
+        "size": 2267438,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250405.007.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250405.007.b1/patched_bp1a.250405.007.b1.zip",
+        "size": 2204499,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250505.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250505.005.b1/init_boot.zip",
+        "size": 2267440,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp1a.250505.005.b1/patched_bp1a.250505.005.b1.zip",
+        "size": 2204489,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250605.031.a2/init_boot.zip",
+        "size": 2666640,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250605.031.a2/patched_bp2a.250605.031.a2.zip",
+        "size": 2597865,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250705.008": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250705.008/init_boot.zip",
+        "size": 2666633,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250705.008.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250705.008/patched_bp2a.250705.008.zip",
+        "size": 2597853,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp2a.250805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250805.005/init_boot.zip",
+        "size": 2666641,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp2a.250805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp2a.250805.005/patched_bp2a.250805.005.zip",
+        "size": 2597860,
+        "size_mb": "2.48"
+      }
+    ],
+    "bp3a.250905.014": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.250905.014/init_boot.zip",
+        "size": 2638653,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.250905.014/patched_bp3a.250905.014.zip",
+        "size": 2580176,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251005.004.b1/init_boot.zip",
+        "size": 2638661,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251005.004.b1/patched_bp3a.251005.004.b1.zip",
+        "size": 2580189,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251005.004.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251005.004.b2/init_boot.zip",
+        "size": 2638660,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251005.004.b2/patched_bp3a.251005.004.b2.zip",
+        "size": 2580189,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp3a.251105.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251105.015/init_boot.zip",
+        "size": 2638655,
+        "size_mb": "2.52"
+      },
+      {
+        "filename": "patched_bp3a.251105.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp3a.251105.015/patched_bp3a.251105.015.zip",
+        "size": 2580178,
+        "size_mb": "2.46"
+      }
+    ],
+    "bp4a.251205.006": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.251205.006/init_boot.zip",
+        "size": 2315949,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.251205.006/patched_bp4a.251205.006.zip",
+        "size": 2332904,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.251205.006.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.251205.006.e1/init_boot.zip",
+        "size": 2315954,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.251205.006.e1/patched_bp4a.251205.006.e1.zip",
+        "size": 2332916,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.260105.004.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.260105.004.e1/init_boot.zip",
+        "size": 2315954,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260105.004.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.260105.004.e1/patched_bp4a.260105.004.e1.zip",
+        "size": 2332909,
+        "size_mb": "2.22"
+      }
+    ],
+    "bp4a.260205.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.260205.001/init_boot.zip",
+        "size": 2315945,
+        "size_mb": "2.21"
+      },
+      {
+        "filename": "patched_bp4a.260205.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/bp4a.260205.001/patched_bp4a.260205.001.zip",
+        "size": 2332901,
+        "size_mb": "2.22"
+      }
+    ],
+    "cp1a.260305.018": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260305.018/init_boot.zip",
+        "size": 2331840,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260305.018.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260305.018/patched_cp1a.260305.018.zip",
+        "size": 2348431,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260405.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260405.005/init_boot.zip",
+        "size": 2331840,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260405.005/patched_cp1a.260405.005.zip",
+        "size": 2349099,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260505.005/init_boot.zip",
+        "size": 2331836,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260505.005/patched_cp1a.260505.005.zip",
+        "size": 2349094,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260505.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260505.005.a1/init_boot.zip",
+        "size": 2331840,
+        "size_mb": "2.22"
+      },
+      {
+        "filename": "patched_cp1a.260505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp1a.260505.005.a1/patched_cp1a.260505.005.a1.zip",
+        "size": 2349106,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp2a.260605.012": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp2a.260605.012/init_boot.zip",
+        "size": 2348026,
+        "size_mb": "2.24"
+      },
+      {
+        "filename": "patched_cp2a.260605.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/cp2a.260605.012/patched_cp2a.260605.012.zip",
+        "size": 2361160,
+        "size_mb": "2.25"
+      }
+    ],
+    "ud2a.231203.054": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.054/init_boot.zip",
+        "size": 1879378,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.231203.054.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.054/patched_ud2a.231203.054.zip",
+        "size": 1888077,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.231203.057": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.057/init_boot.zip",
+        "size": 1879379,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.231203.057.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.057/patched_ud2a.231203.057.zip",
+        "size": 1888080,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.231203.057.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.057.a1/init_boot.zip",
+        "size": 1879377,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.231203.057.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.231203.057.a1/patched_ud2a.231203.057.a1.zip",
+        "size": 1888083,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.240505.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001/init_boot.zip",
+        "size": 1879377,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.240505.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001/patched_ud2a.240505.001.zip",
+        "size": 1888074,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.240505.001.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.a1/init_boot.zip",
+        "size": 1879381,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.240505.001.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.a1/patched_ud2a.240505.001.a1.zip",
+        "size": 1888091,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.240505.001.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.b1/init_boot.zip",
+        "size": 1879383,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.240505.001.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.b1/patched_ud2a.240505.001.b1.zip",
+        "size": 1888085,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.240505.001.d1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.d1/init_boot.zip",
+        "size": 1879380,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.240505.001.d1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.d1/patched_ud2a.240505.001.d1.zip",
+        "size": 1888088,
+        "size_mb": "1.80"
+      }
+    ],
+    "ud2a.240505.001.w1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.w1/init_boot.zip",
+        "size": 1879381,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_ud2a.240505.001.w1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/akita/ud2a.240505.001.w1/patched_ud2a.240505.001.w1.zip",
+        "size": 1888085,
+        "size_mb": "1.80"
+      }
+    ]
+  }
+}

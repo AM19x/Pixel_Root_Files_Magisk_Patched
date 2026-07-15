@@ -1,0 +1,78 @@
+{
+  "device": "raven",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-15T08:42:50.723Z",
+  "builds": {
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "Patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/bp2a.250605.031.a2/Patched_bp2a.250605.031.a2.zip",
+        "size": 14679773,
+        "size_mb": "14.00"
+      }
+    ],
+    "bp3a.250905.014": [
+      {
+        "filename": "Patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/bp3a.250905.014/Patched_bp3a.250905.014.zip",
+        "size": 15541719,
+        "size_mb": "14.82"
+      }
+    ],
+    "cp1a.260405.005": [
+      {
+        "filename": "Patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp1a.260405.005/Patched_cp1a.260405.005.zip",
+        "size": 14731389,
+        "size_mb": "14.05"
+      },
+      {
+        "filename": "boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp1a.260405.005/boot.zip",
+        "size": 14390632,
+        "size_mb": "13.72"
+      }
+    ],
+    "cp2a.260605.012": [
+      {
+        "filename": "Patched_cp2a.260605.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp2a.260605.012/Patched_cp2a.260605.012.zip",
+        "size": 14679773,
+        "size_mb": "14.00"
+      },
+      {
+        "filename": "boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp2a.260605.012/boot.zip",
+        "size": 14337964,
+        "size_mb": "13.67"
+      }
+    ],
+    "cp2a.260605.012.b1": [
+      {
+        "filename": "Patched_cp2a.260605.012.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/cp2a.260605.012.b1/Patched_cp2a.260605.012.b1.zip",
+        "size": 14756898,
+        "size_mb": "14.07"
+      }
+    ],
+    "extras": [
+      {
+        "filename": "radio-raven.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/raven/extras/radio-raven.zip",
+        "size": 35568727,
+        "size_mb": "33.92"
+      }
+    ]
+  }
+}

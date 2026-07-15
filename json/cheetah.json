@@ -1,0 +1,1002 @@
+{
+  "device": "cheetah",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-15T08:42:50.721Z",
+  "builds": {
+    "ap1a.240305.019.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240305.019.a1/init_boot.zip",
+        "size": 2043437,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240305.019.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240305.019.a1/patched_ap1a.240305.019.a1.zip",
+        "size": 2019951,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240405.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240405.002/init_boot.zip",
+        "size": 2043431,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240405.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240405.002/patched_ap1a.240405.002.zip",
+        "size": 2019939,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240405.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240405.002.b1/init_boot.zip",
+        "size": 2043437,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240405.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240405.002.b1/patched_ap1a.240405.002.b1.zip",
+        "size": 2019947,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.004/init_boot.zip",
+        "size": 2043433,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.004/patched_ap1a.240505.004.zip",
+        "size": 2019940,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005/init_boot.zip",
+        "size": 2043432,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005/patched_ap1a.240505.005.zip",
+        "size": 2019937,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005.a1/init_boot.zip",
+        "size": 2043435,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005.a1/patched_ap1a.240505.005.a1.zip",
+        "size": 2019948,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap1a.240505.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005.b1/init_boot.zip",
+        "size": 2043434,
+        "size_mb": "1.95"
+      },
+      {
+        "filename": "patched_ap1a.240505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap1a.240505.005.b1/patched_ap1a.240505.005.b1.zip",
+        "size": 2019943,
+        "size_mb": "1.93"
+      }
+    ],
+    "ap2a.240605.024": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240605.024/init_boot.zip",
+        "size": 2105350,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240605.024.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240605.024/patched_ap2a.240605.024.zip",
+        "size": 2086063,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240705.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240705.004/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240705.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240705.004/patched_ap2a.240705.004.zip",
+        "size": 2086061,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240805.005/init_boot.zip",
+        "size": 2105351,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240805.005/patched_ap2a.240805.005.zip",
+        "size": 2086060,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap2a.240905.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240905.003/init_boot.zip",
+        "size": 2105352,
+        "size_mb": "2.01"
+      },
+      {
+        "filename": "patched_ap2a.240905.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap2a.240905.003/patched_ap2a.240905.003.zip",
+        "size": 2086061,
+        "size_mb": "1.99"
+      }
+    ],
+    "ap3a.241005.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap3a.241005.015/init_boot.zip",
+        "size": 2266309,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap3a.241005.015/patched_ap3a.241005.015.zip",
+        "size": 2202055,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap3a.241005.015.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap3a.241005.015.a2/init_boot.zip",
+        "size": 2266317,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_ap3a.241005.015.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap3a.241005.015.a2/patched_ap3a.241005.015.a2.zip",
+        "size": 2202064,
+        "size_mb": "2.10"
+      }
+    ],
+    "ap4a.241205.013": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013/init_boot.zip",
+        "size": 2246249,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013/patched_ap4a.241205.013.zip",
+        "size": 2186276,
+        "size_mb": "2.08"
+      }
+    ],
+    "ap4a.241205.013.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013.b1/init_boot.zip",
+        "size": 2246250,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013.b1/patched_ap4a.241205.013.b1.zip",
+        "size": 2186282,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.241205.013.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013.c1/init_boot.zip",
+        "size": 2246246,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.241205.013.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.241205.013.c1/patched_ap4a.241205.013.c1.zip",
+        "size": 2186278,
+        "size_mb": "2.08"
+      }
+    ],
+    "ap4a.250105.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250105.002/init_boot.zip",
+        "size": 2246252,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250105.002/patched_ap4a.250105.002.zip",
+        "size": 2186279,
+        "size_mb": "2.08"
+      }
+    ],
+    "ap4a.250105.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250105.002.b1/init_boot.zip",
+        "size": 2246256,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.250105.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250105.002.b1/patched_ap4a.250105.002.b1.zip",
+        "size": 2186288,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250205.002/init_boot.zip",
+        "size": 2246990,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250205.002/patched_ap4a.250205.002.zip",
+        "size": 2187978,
+        "size_mb": "2.09"
+      }
+    ],
+    "ap4a.250205.002.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250205.002.b2/init_boot.zip",
+        "size": 2246992,
+        "size_mb": "2.14"
+      },
+      {
+        "filename": "patched_ap4a.250205.002.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/ap4a.250205.002.b2/patched_ap4a.250205.002.b2.zip",
+        "size": 2187983,
+        "size_mb": "2.09"
+      }
+    ],
+    "bp1a.250305.019": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250305.019/init_boot.zip",
+        "size": 2261636,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250305.019.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250305.019/patched_bp1a.250305.019.zip",
+        "size": 2201849,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250405.007.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250405.007.b1/init_boot.zip",
+        "size": 2261634,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250405.007.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250405.007.b1/patched_bp1a.250405.007.b1.zip",
+        "size": 2201861,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp1a.250505.005.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250505.005.b1/init_boot.zip",
+        "size": 2261631,
+        "size_mb": "2.16"
+      },
+      {
+        "filename": "patched_bp1a.250505.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp1a.250505.005.b1/patched_bp1a.250505.005.b1.zip",
+        "size": 2201849,
+        "size_mb": "2.10"
+      }
+    ],
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250605.031.a2/init_boot.zip",
+        "size": 2657197,
+        "size_mb": "2.53"
+      },
+      {
+        "filename": "patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250605.031.a2/patched_bp2a.250605.031.a2.zip",
+        "size": 2588811,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp2a.250705.008": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250705.008/init_boot.zip",
+        "size": 2657193,
+        "size_mb": "2.53"
+      },
+      {
+        "filename": "patched_bp2a.250705.008.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250705.008/patched_bp2a.250705.008.zip",
+        "size": 2588795,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp2a.250805.005": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250805.005/init_boot.zip",
+        "size": 2657196,
+        "size_mb": "2.53"
+      },
+      {
+        "filename": "patched_bp2a.250805.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp2a.250805.005/patched_bp2a.250805.005.zip",
+        "size": 2588802,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp3a.250905.014": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.250905.014/init_boot.zip",
+        "size": 2660503,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp3a.250905.014.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.250905.014/patched_bp3a.250905.014.zip",
+        "size": 2592536,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp3a.251005.004.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.251005.004.b1/init_boot.zip",
+        "size": 2660502,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.251005.004.b1/patched_bp3a.251005.004.b1.zip",
+        "size": 2592550,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp3a.251005.004.b2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.251005.004.b2/init_boot.zip",
+        "size": 2660500,
+        "size_mb": "2.54"
+      },
+      {
+        "filename": "patched_bp3a.251005.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp3a.251005.004.b2/patched_bp3a.251005.004.b2.zip",
+        "size": 2592552,
+        "size_mb": "2.47"
+      }
+    ],
+    "bp4a.251205.006": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp4a.251205.006/init_boot.zip",
+        "size": 2339895,
+        "size_mb": "2.23"
+      },
+      {
+        "filename": "patched_bp4a.251205.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/bp4a.251205.006/patched_bp4a.251205.006.zip",
+        "size": 2351329,
+        "size_mb": "2.24"
+      }
+    ],
+    "cp1a.260305.018": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260305.018/init_boot.zip",
+        "size": 2355680,
+        "size_mb": "2.25"
+      },
+      {
+        "filename": "patched_cp1a.260305.018.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260305.018/patched_cp1a.260305.018.zip",
+        "size": 2366773,
+        "size_mb": "2.26"
+      }
+    ],
+    "cp1a.260405.005": [
+      {
+        "filename": "Patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005/Patched_cp1a.260405.005.zip",
+        "size": 2367104,
+        "size_mb": "2.26"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005/init_boot.zip",
+        "size": 2355678,
+        "size_mb": "2.25"
+      },
+      {
+        "filename": "patched_cp1a.260405.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005/patched_cp1a.260405.005.zip",
+        "size": 2366796,
+        "size_mb": "2.26"
+      }
+    ],
+    "cp1a.260405.005.b1": [
+      {
+        "filename": "Patched_cp1a.260405.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005.b1/Patched_cp1a.260405.005.b1.zip",
+        "size": 2367105,
+        "size_mb": "2.26"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005.b1/init_boot.zip",
+        "size": 2355686,
+        "size_mb": "2.25"
+      },
+      {
+        "filename": "patched_cp1a.260405.005.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005.b1/patched_cp1a.260405.005.b1.zip",
+        "size": 2366810,
+        "size_mb": "2.26"
+      }
+    ],
+    "td1a.220804.009.a2": [
+      {
+        "filename": "Patched_td1a.220804.009.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a2/Patched_td1a.220804.009.a2.zip",
+        "size": 1813288,
+        "size_mb": "1.73"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a2/init_boot.zip",
+        "size": 1794244,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.220804.009.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a2/patched_td1a.220804.009.a2.zip",
+        "size": 1811532,
+        "size_mb": "1.73"
+      }
+    ],
+    "td1a.220804.009.a5": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a5/init_boot.zip",
+        "size": 1794242,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.220804.009.a5.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.009.a5/patched_td1a.220804.009.a5.zip",
+        "size": 1811528,
+        "size_mb": "1.73"
+      }
+    ],
+    "td1a.220804.031": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.031/init_boot.zip",
+        "size": 1794242,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.220804.031.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.220804.031/patched_td1a.220804.031.zip",
+        "size": 1811522,
+        "size_mb": "1.73"
+      }
+    ],
+    "td1a.221105.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.001/init_boot.zip",
+        "size": 1794241,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.221105.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.001/patched_td1a.221105.001.zip",
+        "size": 1811521,
+        "size_mb": "1.73"
+      }
+    ],
+    "td1a.221105.001.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.001.a1/init_boot.zip",
+        "size": 1794246,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.221105.001.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.001.a1/patched_td1a.221105.001.a1.zip",
+        "size": 1811530,
+        "size_mb": "1.73"
+      }
+    ],
+    "td1a.221105.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.003/init_boot.zip",
+        "size": 1794242,
+        "size_mb": "1.71"
+      },
+      {
+        "filename": "patched_td1a.221105.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/td1a.221105.003/patched_td1a.221105.003.zip",
+        "size": 1811527,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.221205.011": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.221205.011/init_boot.zip",
+        "size": 1798808,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.221205.011.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.221205.011/patched_tq1a.221205.011.zip",
+        "size": 1815954,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.221205.012": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.221205.012/init_boot.zip",
+        "size": 1798805,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.221205.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.221205.012/patched_tq1a.221205.012.zip",
+        "size": 1815950,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.230105.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230105.002/init_boot.zip",
+        "size": 1800175,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.230105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230105.002/patched_tq1a.230105.002.zip",
+        "size": 1815454,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.230105.002.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230105.002.a1/init_boot.zip",
+        "size": 1800177,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.230105.002.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230105.002.a1/patched_tq1a.230105.002.a1.zip",
+        "size": 1815459,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.230205.001.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.001.a2/init_boot.zip",
+        "size": 1800175,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.230205.001.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.001.a2/patched_tq1a.230205.001.a2.zip",
+        "size": 1815461,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.230205.001.d2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.001.d2/init_boot.zip",
+        "size": 1800174,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.230205.001.d2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.001.d2/patched_tq1a.230205.001.d2.zip",
+        "size": 1815453,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq1a.230205.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.002/init_boot.zip",
+        "size": 1800175,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq1a.230205.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq1a.230205.002/patched_tq1a.230205.002.zip",
+        "size": 1815459,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq2a.230305.008.a3": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230305.008.a3/init_boot.zip",
+        "size": 1799915,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq2a.230305.008.a3.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230305.008.a3/patched_tq2a.230305.008.a3.zip",
+        "size": 1817119,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq2a.230305.008.c1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230305.008.c1/init_boot.zip",
+        "size": 1799908,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq2a.230305.008.c1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230305.008.c1/patched_tq2a.230305.008.c1.zip",
+        "size": 1817109,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq2a.230405.003.e1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230405.003.e1/init_boot.zip",
+        "size": 1799915,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq2a.230405.003.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230405.003.e1/patched_tq2a.230405.003.e1.zip",
+        "size": 1817120,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq2a.230505.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230505.002/init_boot.zip",
+        "size": 1799911,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq2a.230505.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq2a.230505.002/patched_tq2a.230505.002.zip",
+        "size": 1817111,
+        "size_mb": "1.73"
+      }
+    ],
+    "tq3a.230605.012": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230605.012/init_boot.zip",
+        "size": 1803106,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230605.012.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230605.012/patched_tq3a.230605.012.zip",
+        "size": 1821150,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230605.012.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230605.012.a1/init_boot.zip",
+        "size": 1803109,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230605.012.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230605.012.a1/patched_tq3a.230605.012.a1.zip",
+        "size": 1821158,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230705.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230705.001/init_boot.zip",
+        "size": 1803104,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230705.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230705.001/patched_tq3a.230705.001.zip",
+        "size": 1821151,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230705.001.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230705.001.a1/init_boot.zip",
+        "size": 1803111,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230705.001.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230705.001.a1/patched_tq3a.230705.001.a1.zip",
+        "size": 1821157,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230805.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230805.001/init_boot.zip",
+        "size": 1803102,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230805.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230805.001/patched_tq3a.230805.001.zip",
+        "size": 1821149,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230805.001.a2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230805.001.a2/init_boot.zip",
+        "size": 1803107,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230805.001.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230805.001.a2/patched_tq3a.230805.001.a2.zip",
+        "size": 1821153,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230901.001": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230901.001/init_boot.zip",
+        "size": 1803104,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230901.001.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230901.001/patched_tq3a.230901.001.zip",
+        "size": 1821147,
+        "size_mb": "1.74"
+      }
+    ],
+    "tq3a.230901.001.c2": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230901.001.c2/init_boot.zip",
+        "size": 1803111,
+        "size_mb": "1.72"
+      },
+      {
+        "filename": "patched_tq3a.230901.001.c2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/tq3a.230901.001.c2/patched_tq3a.230901.001.c2.zip",
+        "size": 1821154,
+        "size_mb": "1.74"
+      }
+    ],
+    "up1a.231005.007": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231005.007/init_boot.zip",
+        "size": 1878977,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_up1a.231005.007.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231005.007/patched_up1a.231005.007.zip",
+        "size": 1887676,
+        "size_mb": "1.80"
+      }
+    ],
+    "up1a.231005.007.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231005.007.a1/init_boot.zip",
+        "size": 1878979,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_up1a.231005.007.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231005.007.a1/patched_up1a.231005.007.a1.zip",
+        "size": 1887689,
+        "size_mb": "1.80"
+      }
+    ],
+    "up1a.231105.003": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231105.003/init_boot.zip",
+        "size": 1879210,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_up1a.231105.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231105.003/patched_up1a.231105.003.zip",
+        "size": 1888135,
+        "size_mb": "1.80"
+      }
+    ],
+    "up1a.231105.003.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231105.003.a1/init_boot.zip",
+        "size": 1879211,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_up1a.231105.003.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/up1a.231105.003.a1/patched_up1a.231105.003.a1.zip",
+        "size": 1888142,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.231205.015": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.231205.015/init_boot.zip",
+        "size": 1879248,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.231205.015.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.231205.015/patched_uq1a.231205.015.zip",
+        "size": 1888468,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.231205.015.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.231205.015.a1/init_boot.zip",
+        "size": 1879253,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.231205.015.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.231205.015.a1/patched_uq1a.231205.015.a1.zip",
+        "size": 1888472,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240105.004": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240105.004/init_boot.zip",
+        "size": 1879246,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240105.004.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240105.004/patched_uq1a.240105.004.zip",
+        "size": 1888471,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240105.004.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240105.004.a1/init_boot.zip",
+        "size": 1879251,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240105.004.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240105.004.a1/patched_uq1a.240105.004.a1.zip",
+        "size": 1888480,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.002": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002/init_boot.zip",
+        "size": 1879249,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002/patched_uq1a.240205.002.zip",
+        "size": 1888469,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.002.a1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002.a1/init_boot.zip",
+        "size": 1879252,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.002.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002.a1/patched_uq1a.240205.002.a1.zip",
+        "size": 1888476,
+        "size_mb": "1.80"
+      }
+    ],
+    "uq1a.240205.002.b1": [
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002.b1/init_boot.zip",
+        "size": 1879251,
+        "size_mb": "1.79"
+      },
+      {
+        "filename": "patched_uq1a.240205.002.b1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/uq1a.240205.002.b1/patched_uq1a.240205.002.b1.zip",
+        "size": 1888479,
+        "size_mb": "1.80"
+      }
+    ]
+  }
+}
