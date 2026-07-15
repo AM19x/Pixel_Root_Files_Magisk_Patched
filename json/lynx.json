@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-15T08:42:50.722Z",
+  "generated_at": "2026-07-15T09:43:47.195Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -556,6 +556,14 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/cp2a.260605.012/patched_cp2a.260605.012.zip",
         "size": 2377118,
         "size_mb": "2.27"
+      }
+    ],
+    "extras": [
+      {
+        "filename": "radio-lynx.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/extras/radio-lynx.zip",
+        "size": 71537282,
+        "size_mb": "68.22"
       }
     ],
     "td4a.221205.042": [
