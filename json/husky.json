@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-17T07:55:01.855Z",
+  "generated_at": "2026-07-17T12:08:00.949Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -435,6 +435,12 @@
       }
     ],
     "bp2a.250605.031.a2": [
+      {
+        "filename": "Patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250605.031.a2/Patched_bp2a.250605.031.a2.zip",
+        "size": 2599669,
+        "size_mb": "2.48"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250605.031.a2/init_boot.zip",
