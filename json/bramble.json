@@ -12,9 +12,15 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-18T07:30:11.539Z",
+  "generated_at": "2026-07-18T07:51:05.872Z",
   "builds": {
     "up1a.231105.001.b2": [
+      {
+        "filename": "Patched_up1a.231105.001.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bramble/up1a.231105.001.b2/Patched_up1a.231105.001.b2.zip",
+        "size": 12170198,
+        "size_mb": "11.61"
+      },
       {
         "filename": "boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bramble/up1a.231105.001.b2/boot.zip",
