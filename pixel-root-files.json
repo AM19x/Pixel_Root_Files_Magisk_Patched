@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-18T15:25:11.788Z",
+  "generated_at": "2026-07-18T15:28:31.725Z",
   "total_devices": 18,
-  "total_builds": 609,
-  "total_files": 1219,
+  "total_builds": 608,
+  "total_files": 1218,
   "devices": [
     {
       "codename": "akita",
@@ -66,8 +66,8 @@
     },
     {
       "codename": "lynx",
-      "builds": 63,
-      "files": 127,
+      "builds": 62,
+      "files": 126,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/lynx.json"
     },
     {
