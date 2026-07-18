@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-18T07:51:05.874Z",
+  "generated_at": "2026-07-18T10:46:03.349Z",
   "builds": {
     "ad1a.240530.030": [
       {
@@ -698,6 +698,20 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/cp2a.260605.012.c1/patched_cp2a.260605.012.c1.zip",
         "size": 2361123,
         "size_mb": "2.25"
+      }
+    ],
+    "cp2a.260705.006": [
+      {
+        "filename": "Patched_cp2a.260705.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/cp2a.260705.006/Patched_cp2a.260705.006.zip",
+        "size": 2363001,
+        "size_mb": "2.25"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/cp2a.260705.006/init_boot.zip",
+        "size": 2351221,
+        "size_mb": "2.24"
       }
     ]
   }
