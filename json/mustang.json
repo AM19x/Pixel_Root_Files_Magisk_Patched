@@ -1,0 +1,26 @@
+{
+  "device": "mustang",
+  "source": {
+    "name": "GSM6 Pixel Tool Pro",
+    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
+  },
+  "community": {
+    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
+    "tool_name": "GSM6 Pixel Tool Pro",
+    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
+    "magisk_version": "30.7",
+    "support_link": "https://gsm6.com/support/"
+  },
+  "generated_at": "2026-07-18T12:54:17.541Z",
+  "builds": {
+    "cp1a.260505.005": [
+      {
+        "filename": "Patched_cp1a.260505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/mustang/cp1a.260505.005/Patched_cp1a.260505.005.zip",
+        "size": 2351348,
+        "size_mb": "2.24"
+      }
+    ]
+  }
+}
