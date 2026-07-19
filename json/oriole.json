@@ -12,8 +12,16 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-19T13:24:36.973Z",
+  "generated_at": "2026-07-19T17:42:28.960Z",
   "builds": {
+    "bp2a.250605.031.a2": [
+      {
+        "filename": "Patched_bp2a.250605.031.a2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/oriole/bp2a.250605.031.a2/Patched_bp2a.250605.031.a2.zip",
+        "size": 14679767,
+        "size_mb": "14.00"
+      }
+    ],
     "cp1a.260405.005": [
       {
         "filename": "Patched_cp1a.260405.005.zip",
