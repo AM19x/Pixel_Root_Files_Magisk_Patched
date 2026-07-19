@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-19T08:54:48.380Z",
+  "generated_at": "2026-07-19T08:56:55.498Z",
   "builds": {
     "bd4a.240925.111": [
       {
@@ -155,6 +155,12 @@
       }
     ],
     "bp3a.251005.004.b2": [
+      {
+        "filename": "Patched_bp3a.251005.004.b2.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b2/Patched_bp3a.251005.004.b2.zip",
+        "size": 2581005,
+        "size_mb": "2.46"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tegu/bp3a.251005.004.b2/init_boot.zip",
