@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-19T01:52:41.078Z",
-  "total_devices": 18,
-  "total_builds": 608,
-  "total_files": 1218,
+  "generated_at": "2026-07-19T05:30:55.749Z",
+  "total_devices": 19,
+  "total_builds": 609,
+  "total_files": 1219,
   "devices": [
     {
       "codename": "akita",
@@ -51,6 +51,12 @@
       "builds": 47,
       "files": 94,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/comet.json"
+    },
+    {
+      "codename": "flame",
+      "builds": 1,
+      "files": 1,
+      "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/flame.json"
     },
     {
       "codename": "husky",
