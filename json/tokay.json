@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-19T12:58:03.697Z",
+  "generated_at": "2026-07-19T13:24:36.975Z",
   "builds": {
     "ad1a.240530.030": [
       {
@@ -295,6 +295,12 @@
       }
     ],
     "bp1a.250405.007": [
+      {
+        "filename": "Patched_bp1a.250405.007.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/bp1a.250405.007/Patched_bp1a.250405.007.zip",
+        "size": 2205472,
+        "size_mb": "2.10"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/bp1a.250405.007/init_boot.zip",
