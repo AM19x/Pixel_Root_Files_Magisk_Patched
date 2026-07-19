@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-19T11:04:03.100Z",
+  "generated_at": "2026-07-19T11:19:36.612Z",
   "total_devices": 19,
   "total_builds": 610,
-  "total_files": 1224,
+  "total_files": 1225,
   "devices": [
     {
       "codename": "akita",
@@ -127,7 +127,7 @@
     {
       "codename": "tokay",
       "builds": 50,
-      "files": 100,
+      "files": 101,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/tokay.json"
     }
   ]
