@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-20T08:43:59.108Z",
+  "generated_at": "2026-07-20T09:11:21.620Z",
   "total_devices": 19,
   "total_builds": 613,
-  "total_files": 1230,
+  "total_files": 1231,
   "devices": [
     {
       "codename": "akita",
@@ -61,7 +61,7 @@
     {
       "codename": "husky",
       "builds": 59,
-      "files": 120,
+      "files": 121,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/husky.json"
     },
     {
