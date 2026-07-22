@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-22T14:27:21.626Z",
+  "generated_at": "2026-07-22T16:06:33.985Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -506,7 +506,7 @@
       {
         "filename": "patched_bp3a.251005.004.b1.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/shiba/bp3a.251005.004.b1/patched_bp3a.251005.004.b1.zip",
-        "size": 2580169,
+        "size": 2581005,
         "size_mb": "2.46"
       }
     ],

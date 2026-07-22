@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-22T14:27:21.628Z",
+  "generated_at": "2026-07-22T16:06:33.986Z",
   "builds": {
     "ad1a.240530.030": [
       {
@@ -310,7 +310,7 @@
       {
         "filename": "patched_bp1a.250405.007.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/bp1a.250405.007/patched_bp1a.250405.007.zip",
-        "size": 2204481,
+        "size": 2205472,
         "size_mb": "2.10"
       }
     ],
@@ -442,7 +442,7 @@
       {
         "filename": "patched_bp2a.250705.008.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/tokay/bp2a.250705.008/patched_bp2a.250705.008.zip",
-        "size": 2597849,
+        "size": 2599712,
         "size_mb": "2.48"
       }
     ],

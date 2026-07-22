@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-22T14:27:21.624Z",
+  "generated_at": "2026-07-22T16:06:33.983Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -436,7 +436,7 @@
       {
         "filename": "patched_bp1a.250505.005.b1.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp1a.250505.005.b1/patched_bp1a.250505.005.b1.zip",
-        "size": 2204425,
+        "size": 2205423,
         "size_mb": "2.10"
       }
     ],
@@ -456,7 +456,7 @@
       {
         "filename": "patched_bp2a.250605.031.a2.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/bp2a.250605.031.a2/patched_bp2a.250605.031.a2.zip",
-        "size": 2597807,
+        "size": 2599669,
         "size_mb": "2.48"
       }
     ],
@@ -616,7 +616,7 @@
       {
         "filename": "patched_cp1a.260305.018.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/husky/cp1a.260305.018/patched_cp1a.260305.018.zip",
-        "size": 2348440,
+        "size": 2350671,
         "size_mb": "2.24"
       }
     ],

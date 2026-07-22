@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-22T14:27:21.625Z",
+  "generated_at": "2026-07-22T16:06:33.983Z",
   "builds": {
     "ad1a.240530.030": [
       {
@@ -646,7 +646,7 @@
       {
         "filename": "patched_cp1a.260505.005.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/komodo/cp1a.260505.005/patched_cp1a.260505.005.zip",
-        "size": 2348544,
+        "size": 2350767,
         "size_mb": "2.24"
       }
     ],
