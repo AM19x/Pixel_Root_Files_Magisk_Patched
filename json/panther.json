@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-23T19:17:21.000Z",
+  "generated_at": "2026-07-23T21:54:56.225Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -520,6 +520,20 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/panther/cp2a.260605.012/patched_cp2a.260605.012.zip",
         "size": 2377123,
         "size_mb": "2.27"
+      }
+    ],
+    "cp2a.260705.006": [
+      {
+        "filename": "Patched_cp2a.260705.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/panther/cp2a.260705.006/Patched_cp2a.260705.006.zip",
+        "size": 2377832,
+        "size_mb": "2.27"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/panther/cp2a.260705.006/init_boot.zip",
+        "size": 2372778,
+        "size_mb": "2.26"
       }
     ],
     "td1a.220804.009.a2": [

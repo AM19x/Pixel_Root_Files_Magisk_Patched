@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-23T19:17:21.002Z",
+  "generated_at": "2026-07-23T21:54:56.227Z",
   "total_devices": 20,
-  "total_builds": 617,
-  "total_files": 1243,
+  "total_builds": 618,
+  "total_files": 1245,
   "devices": [
     {
       "codename": "akita",
@@ -96,8 +96,8 @@
     },
     {
       "codename": "panther",
-      "builds": 71,
-      "files": 145,
+      "builds": 72,
+      "files": 147,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/panther.json"
     },
     {
