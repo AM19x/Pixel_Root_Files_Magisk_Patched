@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-23T19:01:44.370Z",
+  "generated_at": "2026-07-23T19:17:20.997Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -491,6 +491,20 @@
         "filename": "patched_cp1a.260405.005.b1.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp1a.260405.005.b1/patched_cp1a.260405.005.b1.zip",
         "size": 2367105,
+        "size_mb": "2.26"
+      }
+    ],
+    "cp2a.260705.006": [
+      {
+        "filename": "Patched_cp2a.260705.006.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp2a.260705.006/Patched_cp2a.260705.006.zip",
+        "size": 2377838,
+        "size_mb": "2.27"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/cheetah/cp2a.260705.006/init_boot.zip",
+        "size": 2372783,
         "size_mb": "2.26"
       }
     ],
