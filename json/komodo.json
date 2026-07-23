@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-23T08:14:46.169Z",
+  "generated_at": "2026-07-23T09:01:28.169Z",
   "builds": {
     "ad1a.240530.030": [
       {
@@ -169,6 +169,12 @@
       }
     ],
     "ap4a.250105.002": [
+      {
+        "filename": "Patched_ap4a.250105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/komodo/ap4a.250105.002/Patched_ap4a.250105.002.zip",
+        "size": 2191481,
+        "size_mb": "2.09"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/komodo/ap4a.250105.002/init_boot.zip",
