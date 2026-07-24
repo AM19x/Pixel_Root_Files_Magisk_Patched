@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-24T08:10:37.020Z",
+  "generated_at": "2026-07-24T11:20:35.922Z",
   "total_devices": 20,
   "total_builds": 618,
-  "total_files": 1245,
+  "total_files": 1246,
   "devices": [
     {
       "codename": "akita",
@@ -115,7 +115,7 @@
     {
       "codename": "shiba",
       "builds": 59,
-      "files": 120,
+      "files": 121,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/shiba.json"
     },
     {
