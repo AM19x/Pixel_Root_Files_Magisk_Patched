@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T09:07:25.412Z",
+  "generated_at": "2026-07-25T11:02:16.040Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -573,6 +573,12 @@
       }
     ],
     "bp4a.260105.004.e1": [
+      {
+        "filename": "Patched_bp4a.260105.004.e1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/shiba/bp4a.260105.004.e1/Patched_bp4a.260105.004.e1.zip",
+        "size": 2333980,
+        "size_mb": "2.23"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/shiba/bp4a.260105.004.e1/init_boot.zip",
