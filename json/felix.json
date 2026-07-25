@@ -1,5 +1,5 @@
 {
-  "device": "coral",
+  "device": "felix",
   "source": {
     "name": "GSM6 Pixel Tool Pro",
     "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
@@ -14,12 +14,18 @@
   },
   "generated_at": "2026-07-25T12:26:11.268Z",
   "builds": {
-    "tp1a.221005.002.b2": [
+    "ap4a.250105.002": [
       {
-        "filename": "boot.zip",
-        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/coral/tp1a.221005.002.b2/boot.zip",
-        "size": 34691424,
-        "size_mb": "33.08"
+        "filename": "Patched_ap4a.250105.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/felix/ap4a.250105.002/Patched_ap4a.250105.002.zip",
+        "size": 2186628,
+        "size_mb": "2.09"
+      },
+      {
+        "filename": "init_boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/felix/ap4a.250105.002/init_boot.zip",
+        "size": 2246249,
+        "size_mb": "2.14"
       }
     ]
   }
