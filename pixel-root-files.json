@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T07:53:14.554Z",
+  "generated_at": "2026-07-25T08:08:08.596Z",
   "total_devices": 20,
-  "total_builds": 621,
-  "total_files": 1252,
+  "total_builds": 622,
+  "total_files": 1254,
   "devices": [
     {
       "codename": "akita",
@@ -90,8 +90,8 @@
     },
     {
       "codename": "oriole",
-      "builds": 6,
-      "files": 11,
+      "builds": 7,
+      "files": 13,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/oriole.json"
     },
     {
