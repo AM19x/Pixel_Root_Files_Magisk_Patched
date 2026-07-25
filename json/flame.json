@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T14:42:12.543Z",
+  "generated_at": "2026-07-25T16:24:27.942Z",
   "builds": {
     "sp1a.211105.002": [
       {
@@ -20,6 +20,14 @@
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/flame/sp1a.211105.002/Patched_sp1a.211105.002.zip",
         "size": 32736209,
         "size_mb": "31.22"
+      }
+    ],
+    "tp1a.221005.002": [
+      {
+        "filename": "Patched_tp1a.221005.002.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/flame/tp1a.221005.002/Patched_tp1a.221005.002.zip",
+        "size": 34757259,
+        "size_mb": "33.15"
       }
     ]
   }
