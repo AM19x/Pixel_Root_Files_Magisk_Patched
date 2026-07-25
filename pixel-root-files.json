@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T07:21:40.826Z",
+  "generated_at": "2026-07-25T07:43:16.725Z",
   "total_devices": 20,
-  "total_builds": 620,
-  "total_files": 1250,
+  "total_builds": 621,
+  "total_files": 1252,
   "devices": [
     {
       "codename": "akita",
@@ -102,8 +102,8 @@
     },
     {
       "codename": "raven",
-      "builds": 9,
-      "files": 14,
+      "builds": 10,
+      "files": 16,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/raven.json"
     },
     {
