@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T08:08:08.595Z",
+  "generated_at": "2026-07-25T09:07:25.412Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -643,6 +643,12 @@
       }
     ],
     "cp1a.260505.005.a1": [
+      {
+        "filename": "Patched_cp1a.260505.005.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/shiba/cp1a.260505.005.a1/Patched_cp1a.260505.005.a1.zip",
+        "size": 2351159,
+        "size_mb": "2.24"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/shiba/cp1a.260505.005.a1/init_boot.zip",
