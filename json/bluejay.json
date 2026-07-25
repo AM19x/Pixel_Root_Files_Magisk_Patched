@@ -12,8 +12,16 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-25T22:12:33.443Z",
+  "generated_at": "2026-07-25T22:15:52.619Z",
   "builds": {
+    "bp1a.250505.005": [
+      {
+        "filename": "Patched_bp1a.250505.005.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bluejay/bp1a.250505.005/Patched_bp1a.250505.005.zip",
+        "size": 14645924,
+        "size_mb": "13.97"
+      }
+    ],
     "bp2a.250705.008": [
       {
         "filename": "Patched_bp2a.250705.008.zip",
