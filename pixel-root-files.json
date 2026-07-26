@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-26T09:14:06.773Z",
+  "generated_at": "2026-07-26T09:45:28.234Z",
   "total_devices": 22,
   "total_builds": 629,
-  "total_files": 1269,
+  "total_files": 1270,
   "devices": [
     {
       "codename": "akita",
@@ -55,7 +55,7 @@
     {
       "codename": "coral",
       "builds": 1,
-      "files": 1,
+      "files": 2,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/coral.json"
     },
     {
