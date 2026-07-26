@@ -12,8 +12,22 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-26T10:35:02.864Z",
+  "generated_at": "2026-07-26T10:55:52.805Z",
   "builds": {
+    "sq3a.220705.003.a1": [
+      {
+        "filename": "Patched_sq3a.220705.003.a1.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/redfin/sq3a.220705.003.a1/Patched_sq3a.220705.003.a1.zip",
+        "size": 11601648,
+        "size_mb": "11.06"
+      },
+      {
+        "filename": "boot.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/redfin/sq3a.220705.003.a1/boot.zip",
+        "size": 11559562,
+        "size_mb": "11.02"
+      }
+    ],
     "up1a.231105.001.b2": [
       {
         "filename": "Patched_up1a.231105.001.b2.zip",
