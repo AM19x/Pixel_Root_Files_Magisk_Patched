@@ -11,10 +11,10 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-27T14:13:43.345Z",
+  "generated_at": "2026-07-27T17:52:41.874Z",
   "total_devices": 22,
-  "total_builds": 632,
-  "total_files": 1281,
+  "total_builds": 633,
+  "total_files": 1283,
   "devices": [
     {
       "codename": "akita",
@@ -120,8 +120,8 @@
     },
     {
       "codename": "redfin",
-      "builds": 2,
-      "files": 4,
+      "builds": 3,
+      "files": 6,
       "json_url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/json/redfin.json"
     },
     {
