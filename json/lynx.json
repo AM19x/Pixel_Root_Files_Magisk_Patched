@@ -12,7 +12,7 @@
     "magisk_version": "30.7",
     "support_link": "https://gsm6.com/support/"
   },
-  "generated_at": "2026-07-27T11:39:42.845Z",
+  "generated_at": "2026-07-27T13:25:58.868Z",
   "builds": {
     "ap1a.240305.019.a1": [
       {
@@ -155,6 +155,12 @@
       }
     ],
     "ap2a.240905.003": [
+      {
+        "filename": "Patched_ap2a.240905.003.zip",
+        "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/ap2a.240905.003/Patched_ap2a.240905.003.zip",
+        "size": 2086787,
+        "size_mb": "1.99"
+      },
       {
         "filename": "init_boot.zip",
         "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/lynx/ap2a.240905.003/init_boot.zip",
