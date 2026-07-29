@@ -18,6 +18,9 @@
 ## 📋 About This Repository
 
 This repository contains **Magisk patched boot and init_boot images** for all Google Pixel devices. The files are automatically collected from the community through **[GSM6 Pixel Tool Pro](https://gsm6.com/gsm6-pixel-tool-pro/)** – the world's first online server-based root tool for Google Pixel.
+The GSM6 Pixel Tool Pro upload newly created root files to this Repo automatically.. once the newly rooted files will be uploaded to the GSM6 servers.. those files will be deleted fromt his repository to make it cleaner.
+here is all the available root files being collected form this repo
+[Google Pixel Root & Stock Boot/Init_boot Files Collection](https://gsm6.com/pixel-root-files/)
 
 ### 🔥 Why This Repo Exists
 
