@@ -2,8 +2,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/AM19x/Pixel_Root_Files_Magisk_Patched?style=social)](https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AM19x/Pixel_Root_Files_Magisk_Patched?style=social)](https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched/network/members)
-[![GitHub release](https://img.shields.io/github/v/release/AM19x/Pixel_Root_Files_Magisk_Patched)](https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched/releases)
-[![GitHub issues](https://img.shields.io/github/issues/AM19x/Pixel_Root_Files_Magisk_Patched)](https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 <div align="center">
@@ -17,23 +15,39 @@
 
 ## 📋 About This Repository
 
-This repository contains **Magisk patched boot and init_boot images** for all Google Pixel devices. The files are automatically collected from the community through **[GSM6 Pixel Tool Pro](https://gsm6.com/gsm6-pixel-tool-pro/)** – the world's first online server-based root tool for Google Pixel.
-The GSM6 Pixel Tool Pro upload newly created root files to this Repo automatically.. once the newly rooted files will be uploaded to the GSM6 servers.. those files will be deleted fromt his repository to make it cleaner.
-here is all the available root files being collected form this repo
-[Google Pixel Root & Stock Boot/Init_boot Files Collection](https://gsm6.com/pixel-root-files/)
+This repository serves as a **community collection point** for Magisk patched boot and init_boot images for Google Pixel devices.
 
-### 🔥 Why This Repo Exists
+### How It Works
+
+1. **Users** root their Pixel devices using [GSM6 Pixel Tool Pro](https://gsm6.com/gsm6-pixel-tool-pro/)
+2. **The tool** automatically uploads newly created root files to this repository
+3. **Files are temporarily stored** in the `incoming/` folder
+4. **Every 48 hours**, a GitHub Action syncs files to the GSM6 servers
+5. **After successful sync**, files are removed from this repository to keep it clean
+
+### Permanent File Storage
+
+All root files are permanently available at:
+- **[Main Collection](https://gsm6.com/pixel-root-files/)** – All files from GSM6 servers
+- **[GSM6 Pixel Root Files Page](https://gsm6.com/pixel-root-files/)** – Web interface with search and download
+
+This repository only contains **recently uploaded files** waiting to be synced to the main servers.
+
+---
+
+## 🔥 Why This System Exists
 
 | Problem | Solution |
 |---------|----------|
-| Searching for root files after every OTA update | **One-click download** from this repo |
+| Searching for root files after every OTA update | **Centralized collection** on GSM6 servers |
 | Mismatched build numbers and boot images | **Build-specific** files organized by device |
 | Outdated root methods and broken links | **Community-verified** files updated daily |
+| Large repository size (3.6GB+) | **Auto-cleanup** keeps this repo lightweight |
 | Time wasted hunting for working Magisk patches | **All files in one place**, always available |
 
 ---
 
-## 🚀 How to Use These Files
+## 🚀 How to Use
 
 ### Method 1: Use GSM6 Pixel Tool Pro (Recommended)
 
@@ -50,44 +64,83 @@ here is all the available root files being collected form this repo
   </a>
 </div>
 
-### Method 2: Manual Download
+### Method 2: Manual Download from Web Interface
+
+Browse and download files directly from the web interface:
+- **[Pixel Root Files Page](https://gsm6.com/pixel-root-files/)**
+
+### Method 3: Manual Download from GitHub (Recent Uploads)
+
+Recently uploaded files (not yet synced to servers) are available in the `incoming/` folder.
+
+**Structure:**
+
+```
+incoming/
+├── codename/
+│   └── build/
+│       ├── boot.zip              # Stock boot image (backup)
+│       ├── init_boot.zip          # Stock init_boot (backup)
+│       ├── Patched_*.zip          # Magisk patched image
+│       └── patched_*.sha256       # SHA256 checksum
+```
+
+### Method 4: Manual Flash (Advanced Users)
 
 1. Find your device codename and build number
-2. Download the `Patched_*.zip` file from this repo
+2. Download the `Patched_*.zip` file
 3. Extract the `.img` file
 4. Flash using fastboot:
-   ```bash
-   # For Pixel 6 and older (boot partition)
-   fastboot flash boot patched_boot.img
-   
-   # For Pixel 7, 8, 9 series (init_boot partition)
-   fastboot flash init_boot patched_init_boot.img
-   
-   # Optional: Wipe data
-   fastboot -w
-   ```
+
+```
+# For Pixel 6 and older (boot partition)
+fastboot flash boot patched_boot.img
+
+# For Pixel 7, 8, 9, 10 series (init_boot partition)
+fastboot flash init_boot patched_init_boot.img
+
+# Optional: Wipe data
+fastboot -w
+```
 
 > **⚠️ IMPORTANT:** Always backup your data before flashing. These files are provided for educational and legitimate repair purposes only.
 
 ---
 
-## 📊 Repository Structure
+## 📊 Folder Structure
+
+### Temporary Storage (This Repository)
 
 ```
 Pixel_Root_Files_Magisk_Patched/
-├── bluejay/                    # Device codename (Pixel 6a)
-│   └── cp1a.260405.005/        # Build number
-│       ├── boot.zip            # Stock boot image (backup)
-│       └── Patched_cp1a.260405.005.zip  # Patched Magisk image
-├── panther/                    # Pixel 7
-│   └── ap1a.240305.019.a1/
-│       ├── init_boot.zip       # Stock init_boot (backup)
-│       └── Patched_ap1a.240305.019.a1.zip
-├── shiba/                      # Pixel 8
+├── incoming/                    # Newly uploaded files (pending sync)
+│   ├── bluejay/
+│   │   └── cp1a.260405.005/
+│   │       ├── boot.zip
+│   │       ├── Patched_cp1a.260405.005.zip
+│   │       └── Patched_cp1a.260405.005.zip.sha256
+│   └── panther/
+│       └── ap1a.240305.019.a1/
+│           ├── init_boot.zip
+│           └── Patched_ap1a.240305.019.a1.zip
+└── .github/
+    └── workflows/
+        └── sync-to-servers.yml   # Auto-sync every 48 hours
+```
+
+### Permanent Storage (GSM6 Servers)
+
+```
+dl1.gsm6.com/google-pixel/root-files/
+├── bluejay/
+│   └── cp1a.260405.005/
+│       ├── boot.zip
+│       └── Patched_cp1a.260405.005.zip
+├── panther/
 │   └── ap1a.240305.019.a1/
 │       ├── init_boot.zip
 │       └── Patched_ap1a.240305.019.a1.zip
-└── ... (all Pixel devices)
+└── ... (all devices and builds)
 ```
 
 ### 📱 Supported Devices
@@ -168,83 +221,15 @@ All files are patched with **Magisk 30.7** – the latest stable version.
 
 ---
 
-## 📦 JSON API
+## 📡 Auto-Sync Process
 
-This repository automatically generates a JSON file with all available root files:
+This repository automatically syncs files to GSM6 servers every **48 hours** via GitHub Actions:
 
-```
-https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/pixel-root-files.json
-```
-
-### JSON Structure
-
-```json
-{
-  "source": {
-    "name": "GSM6 Pixel Tool Pro",
-    "url": "https://gsm6.com/gsm6-pixel-tool-pro/",
-    "repo": "https://github.com/AM19x/Pixel_Root_Files_Magisk_Patched"
-  },
-  "community": {
-    "contribute_url": "https://gsm6.com/gsm6-pixel-tool-pro/#server-backup-feature",
-    "tool_name": "GSM6 Pixel Tool Pro",
-    "tool_download": "https://gsm6.com/gsm6-pixel-tool-pro/",
-    "how_to_contribute": [
-      "1. Download and install GSM6 Pixel Tool Pro",
-      "2. Root your Pixel device using the Direct Root method",
-      "3. After successful root, the tool will ask to upload the file",
-      "4. Click 'Yes' to share your root file with the community"
-    ],
-    "magisk_version": "30.7",
-    "support_link": "https://gsm6.com/support/"
-  },
-  "generated_at": "2026-07-08T12:00:00.000Z",
-  "total_devices": 15,
-  "total_builds": 45,
-  "total_files": 90,
-  "devices": {
-    "bluejay": {
-      "cp1a.260405.005": [
-        {
-          "filename": "boot.zip",
-          "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bluejay/cp1a.260405.005/boot.zip",
-          "size": 14390633,
-          "size_mb": "13.72"
-        },
-        {
-          "filename": "Patched_cp1a.260405.005.zip",
-          "url": "https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/bluejay/cp1a.260405.005/Patched_cp1a.260405.005.zip",
-          "size": 14731388,
-          "size_mb": "14.05"
-        }
-      ]
-    }
-  }
-}
-```
-
-### Use the JSON in Your Projects
-
-```javascript
-// Fetch all Pixel root files
-fetch('https://raw.githubusercontent.com/AM19x/Pixel_Root_Files_Magisk_Patched/main/pixel-root-files.json')
-  .then(response => response.json())
-  .then(data => {
-    console.log(`📱 ${data.total_devices} devices`);
-    console.log(`📦 ${data.total_builds} builds`);
-    console.log(`📄 ${data.total_files} files`);
-  });
-```
-
----
-
-## 📡 Auto-Updates
-
-This repository is automatically updated every **6 hours** via GitHub Actions:
-
-- New files are added automatically
-- The JSON API is regenerated
-- All changes are committed by the **GSM6 Bot**
+1. New files are added to `incoming/` by users
+2. GitHub Action runs every 48 hours
+3. Files are uploaded to GSM6 servers
+4. Files are removed from this repository
+5. The web interface updates automatically
 
 ---
 
@@ -254,9 +239,9 @@ This repository is automatically updated every **6 hours** via GitHub Actions:
 |----------|------|
 | **GSM6 Pixel Tool Pro** | [Download](https://gsm6.com/gsm6-pixel-tool-pro/) |
 | **GSM6 Official Website** | [gsm6.com](https://gsm6.com) |
+| **Pixel Root Files Page** | [View Files](https://gsm6.com/pixel-root-files/) |
 | **Support Forum** | [forum.gsm6.com](https://forum.gsm6.com) |
 | **Telegram Community** | [Join Channel](https://t.me/LearnMobileSoftware) |
-| **YouTube Tutorials** | [Watch Videos](https://www.youtube.com/channel/UCFCeZMSYqYskNe5e-ulMKjg?sub_confirmation=1) |
 
 ---
 
