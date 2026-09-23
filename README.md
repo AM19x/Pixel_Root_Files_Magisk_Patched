@@ -147,6 +147,7 @@ dl1.gsm6.com/google-pixel/root-files/
 
 | Series | Codenames | Partition |
 |--------|-----------|-----------|
+| **Pixel 11** | cubs, grizzly, kodiak, yogi | init_boot |
 | **Pixel 10** | frankel, blazer, mustang, rango, stallion | init_boot |
 | **Pixel 9** | tokay, caiman, komodo, comet, tegu | init_boot |
 | **Pixel 8** | shiba, husky, akita | init_boot |
